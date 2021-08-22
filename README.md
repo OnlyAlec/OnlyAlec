@@ -7,8 +7,8 @@
     </a>
     <a href= #>
        <img alt="ØnlyAlec | Badge" src="https://img.shields.io/tokei/lines/github/OnlyAlec/Discord-BcK?color=orange&label=%E2%9A%A1%20Total%20Lines&style=for-the-badge">
-    </a> <br><br>
-	<a href=https://open.spotify.com/user/12133135781>
+    </a> <br/><br/>
+	<a href= https://open.spotify.com/user/12133135781>
 		<img alt="ØnlyAlec | Spotify" src="https://spreadme-qglxp9i7j-onlyalec.vercel.app/api/spotify"
 	</a>
 </p>
@@ -16,7 +16,7 @@
 ---
 
 ## Soy un programador amateur, estudiante y jugador de Valorant! <img width="200px" height="200px" src="https://images-ext-2.discordapp.net/external/xLqU959dX7Vj4R5J336CV1JLgbJ5_49329SnvgqFHGY/%3Fv%3D1/https/cdn.discordapp.com/emojis/852989677376503868.gif" align=right>
-- 💬 Actualmente estoy trabajando en mi [Servidor de Discord] [Bot]! 
+- 💬 Actualmente estoy trabajando en mi [Servidor de Discord][Bot]! 
 - 🎈 Me gustaria aprender muchas cosas o tener un conocimiento basico
 - 💠 Lo que estoy buscando es poder aprender de otros y colaborar en proyectos interesantes
 - 💖 Mi meta de este año es aprender python y terminar de dominar JS
@@ -95,5 +95,6 @@
 	</a>
 </p>
 
+[Bot]: https://github.com/OnlyAlec/Discord-BcK
 
 <!-- ![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/m788264843-c4158ce1bcebf4d1fa85aab2?color=blue&label=Online&logo=Discord&style=for-the-badge) -->

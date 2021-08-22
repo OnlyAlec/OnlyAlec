@@ -1,10 +1,10 @@
-[<img align="center" alt="ØnlyAlec | GIF" src="https://readme-typing-svg.herokuapp.com?font=Monoton&color=22F7A6&size=32&center=true&vCenter=true&lines=%5B+%C3%98nlyAlec++%5D"/>][github]
+[<img align="center" alt="ØnlyAlec | GIF" src="https://readme-typing-svg.herokuapp.com?font=Monoton&color=22F7A6&size=32&center=true&lines=%5B+%C3%98nlyAlec++%5D"/>][github]\
 [<img align="center" alt="ØnlyAlec | Discord" src="https://img.shields.io/discord/821845551921233920?color=blueviolet&label=Server&logo=Discord&style=for-the-badge">][discord]
-[<img align="center" alt="ØnlyAlec | Badge" src="https://img.shields.io/tokei/lines/github/OnlyAlec/Discord-BcK?color=orange&label=%E2%9A%A1%20Total%20Lines&style=for-the-badge">]
+<img align="center" alt="ØnlyAlec | Badge" src="https://img.shields.io/tokei/lines/github/OnlyAlec/Discord-BcK?color=orange&label=%E2%9A%A1%20Total%20Lines&style=for-the-badge">\
 
 ---
 
-## Soy un programador amateur, estudiante y jugador de Valorant! <img width="170" height="170" src="https://images-ext-2.discordapp.net/external/xLqU959dX7Vj4R5J336CV1JLgbJ5_49329SnvgqFHGY/%3Fv%3D1/https/cdn.discordapp.com/emojis/852989677376503868.gif" align=right>
+## Soy un programador amateur, estudiante y jugador de Valorant! <img width="200px" height="200px" src="https://images-ext-2.discordapp.net/external/xLqU959dX7Vj4R5J336CV1JLgbJ5_49329SnvgqFHGY/%3Fv%3D1/https/cdn.discordapp.com/emojis/852989677376503868.gif" align=right>
 - 💬 Actualmente estoy trabajando en mi [Servidor de Discord] [Bot]! 
 - 🎈 Me gustaria aprender muchas cosas o tener un conocimiento basico
 - 💠 Lo que estoy buscando es poder aprender de otros y colaborar en proyectos interesantes
@@ -14,7 +14,7 @@
 
 ### 👥 | Conoceme en redes: 
 [<img align="left" alt="ØnlyAlec | Web" width="40px" src="https://img.icons8.com/fluency/48/000000/web-design.png" />][web]
-[<img align="left" alt="ØnlyAlec | Twitter" width="40px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png"/> />][twitter]
+[<img align="left" alt="ØnlyAlec | Twitter" width="40px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png"/>][twitter]
 [<img align="left" alt="ØnlyAlec | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 ---
@@ -32,7 +32,7 @@
 [<img align="left" alt="Photoshop" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />][illustrator]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />][vscode]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" />][github]
-[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 [<img align="left" alt="Photoshop" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][postman]
 
 ---
@@ -48,7 +48,6 @@
 <!--END_SECTION:activity-->
 </details>
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyAlec&theme=tokyonight)](https://github.com/OnlyAlec)
 
 [instagram]: https://www.instagram.com/alexis.chacs

@@ -7,7 +7,10 @@
     </a>
     <a href= #>
        <img alt="ØnlyAlec | Badge" src="https://img.shields.io/tokei/lines/github/OnlyAlec/Discord-BcK?color=orange&label=%E2%9A%A1%20Total%20Lines&style=for-the-badge">
-    </a>
+    </a> <br><br>
+	<a href=https://open.spotify.com/user/12133135781>
+		<img alt="ØnlyAlec | Spotify" src="https://spreadme-qglxp9i7j-onlyalec.vercel.app/api/spotify"
+	</a>
 </p>
 
 ---
@@ -77,13 +80,7 @@
 
 <details>
     <summary>💎 Actividad Reciente en GitHub</summary>
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/dmgrstuff/rpcgecko/issues/1) in [dmgrstuff/rpcgecko](https://github.com/dmgrstuff/rpcgecko)
-2. ❗️ Opened issue [#1](https://github.com/dmgrstuff/rpcgecko/issues/1) in [dmgrstuff/rpcgecko](https://github.com/dmgrstuff/rpcgecko)
-3. ❗️ Opened issue [#2](https://github.com/jamesl1001/deviantART-API/issues/2) in [jamesl1001/deviantART-API](https://github.com/jamesl1001/deviantART-API)
-4. 🗣 Commented on [#17](https://github.com/KhushrajRathod/repl.deploy/issues/17) in [KhushrajRathod/repl.deploy](https://github.com/KhushrajRathod/repl.deploy)
-5. ❗️ Closed issue [#17](https://github.com/KhushrajRathod/repl.deploy/issues/17) in [KhushrajRathod/repl.deploy](https://github.com/KhushrajRathod/repl.deploy)
-<!--END_SECTION:activity-->
+	<!--START_SECTION:activity-->
 </details>
 
 <p align="center">

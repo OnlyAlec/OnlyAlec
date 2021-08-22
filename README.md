@@ -1,7 +1,7 @@
 <p align="center">
     <a href= https://github.com/OnlyAlec>
-        <img alt="" src="https://readme-typing-svg.herokuapp.com?font=Monoton&color=1DF7DB&size=70&center=true&vCenter=true&width=500&height=100&lines=%5BOnlyAlec%5D"
-    </a> <br>
+        <img alt="" src="https://readme-typing-svg.herokuapp.com?font=Monoton&color=1DF7DB&size=70&center=true&vCenter=true&width=500&height=100&lines=%5BOnlyAlec%5D">
+    </a> <br/>
     <a href= https://discord.com/invite/uWzpuaEnvb>
         <img alt="ØnlyAlec | Discord" src="https://img.shields.io/discord/821845551921233920?color=blueviolet&label=Server&logo=Discord&style=for-the-badge">
     </a>
@@ -10,7 +10,7 @@
     </a>
 	<br/>
 	<a href= https://open.spotify.com/user/12133135781>
-		<img alt="ØnlyAlec | Spotify" src="https://spreadme-qglxp9i7j-onlyalec.vercel.app/api/spotify"
+		<img alt="ØnlyAlec | Spotify" src="https://spreadme-qglxp9i7j-onlyalec.vercel.app/api/spotify">
 	</a>
 </p>
 		

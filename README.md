@@ -1,6 +1,14 @@
-[<img align="center" alt="ØnlyAlec | GIF" src="https://readme-typing-svg.herokuapp.com?font=Monoton&color=22F7A6&size=32&center=true&lines=%5B+%C3%98nlyAlec++%5D"/>][github]\
-[<img align="center" alt="ØnlyAlec | Discord" src="https://img.shields.io/discord/821845551921233920?color=blueviolet&label=Server&logo=Discord&style=for-the-badge">][discord]
-<img align="center" alt="ØnlyAlec | Badge" src="https://img.shields.io/tokei/lines/github/OnlyAlec/Discord-BcK?color=orange&label=%E2%9A%A1%20Total%20Lines&style=for-the-badge">\
+<p align="center">
+    <a href= https://github.com/OnlyAlec>
+        <img alt="" src="https://readme-typing-svg.herokuapp.com?font=Monoton&color=1DF7DB&size=70&center=true&vCenter=true&width=500&height=100&lines=%5BOnlyAlec%5D"
+    </a> <br>
+    <a href= https://discord.com/invite/uWzpuaEnvb>
+        <img alt="ØnlyAlec | Discord" src="https://img.shields.io/discord/821845551921233920?color=blueviolet&label=Server&logo=Discord&style=for-the-badge">
+    </a>
+    <a href= #>
+       <img alt="ØnlyAlec | Badge" src="https://img.shields.io/tokei/lines/github/OnlyAlec/Discord-BcK?color=orange&label=%E2%9A%A1%20Total%20Lines&style=for-the-badge">
+    </a>
+</p>
 
 ---
 
@@ -11,35 +19,65 @@
 - 💖 Mi meta de este año es aprender python y terminar de dominar JS
 
 ---
-
-### 👥 | Conoceme en redes: 
-[<img align="left" alt="ØnlyAlec | Web" width="40px" src="https://img.icons8.com/fluency/48/000000/web-design.png" />][web]
-[<img align="left" alt="ØnlyAlec | Twitter" width="40px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png"/>][twitter]
-[<img align="left" alt="ØnlyAlec | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+	
+<h3 align="center">👥 | Conoceme en redes: </h3>
+<p align="center">
+		<a href=https://thealexsview.pixieset.com>
+			<img alt="ØnlyAlec | Web" width="60px" src="https://img.icons8.com/fluency/48/000000/web-design.png"/>
+		</a>
+		<a href=https://twitter.com/DerkerBec>
+			<img alt="ØnlyAlec | Twitter" width="60px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png"/>
+		</a>
+		<a href=https://www.instagram.com/alexis.chacs>
+			<img alt="ØnlyAlec | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+		</a>
+</p>
 
 ---
 
-### ⚙ | Lenguajes y herramientas:
-<!-- [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html5] -->
-<!-- [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css] -->
-
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
-[<img align="left" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg"/>][nodejs]
-[<img align="left" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c]
-[<img align="left" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][c]
-
-[<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />][photoshop]
-[<img align="left" alt="Photoshop" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />][illustrator]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />][vscode]
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" />][github]
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-[<img align="left" alt="Photoshop" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][postman]
+<h3 align="center"> ⚙ | Lenguajes y herramientas: </h3>
+<p align="center">
+	<a href=https://www.w3.org/html/>
+		<img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+	<a>
+	<a href=https://www.w3schools.com/css>
+		<img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+	<a>
+	<a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+		<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+	<a>
+	<a href=https://nodejs.org>
+		<img alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg"/>
+	<a>
+	<a href=https://visualstudio.microsoft.com/es/vs/features/cplusplus/>
+		<img alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+		<img alt="c++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+	<a>	<br> <br>
+	<a href=https://www.photoshop.com>
+		<img alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
+	<a>
+	<a href=https://www.adobe.com/mx/products/illustrator.html>
+		<img alt="Illustrator" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+	<a>
+	<a href=https://code.visualstudio.com>
+		<img alt="Visual Studio Code" width="40px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+	<a>
+	<a href=https://github.com>
+		<img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original.svg" />
+	<a>
+	<a href=#>
+		<img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+	<a>
+	<a href=https://www.postman.com>
+		<img alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+	<a>
+</p>
 
 ---
 
 <details>
     <summary>💎 Actividad Reciente en GitHub</summary>
-    <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/dmgrstuff/rpcgecko/issues/1) in [dmgrstuff/rpcgecko](https://github.com/dmgrstuff/rpcgecko)
 2. ❗️ Opened issue [#1](https://github.com/dmgrstuff/rpcgecko/issues/1) in [dmgrstuff/rpcgecko](https://github.com/dmgrstuff/rpcgecko)
 3. ❗️ Opened issue [#2](https://github.com/jamesl1001/deviantART-API/issues/2) in [jamesl1001/deviantART-API](https://github.com/jamesl1001/deviantART-API)
@@ -48,22 +86,11 @@
 <!--END_SECTION:activity-->
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyAlec&theme=tokyonight)](https://github.com/OnlyAlec)
+<p align="center">
+	<a href=https://github.com/OnlyAlec>
+		<img alt="Discord Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyAlec&theme=tokyonight">
+	</a>
+</p>
 
-[instagram]: https://www.instagram.com/alexis.chacs
-[github]: https://github.com/OnlyAlec
-[web]: https://thealexsview.pixieset.com
-[twitter]: https://twitter.com/DerkerBec
-[discord]: https://discord.com/invite/uWzpuaEnvb
-
-[vscode]: https://code.visualstudio.com
-[html5]: https://www.w3.org/html/
-[css]: https://www.w3schools.com/css
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[nodejs]: https://nodejs.org
-[c]: https://visualstudio.microsoft.com/es/vs/features/cplusplus/
-[photoshop]: https://www.photoshop.com
-[illustrator]: https://www.adobe.com/mx/products/illustrator.html
-[postman]: https://www.postman.com
 
 <!-- ![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/m788264843-c4158ce1bcebf4d1fa85aab2?color=blue&label=Online&logo=Discord&style=for-the-badge) -->

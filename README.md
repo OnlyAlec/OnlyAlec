@@ -82,12 +82,6 @@
 <details>
     <summary>💎 Actividad Reciente en GitHub</summary>
 	<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/dmgrstuff/rpcgecko/issues/1) in [dmgrstuff/rpcgecko](https://github.com/dmgrstuff/rpcgecko)
-2. ❗️ Opened issue [#1](https://github.com/dmgrstuff/rpcgecko/issues/1) in [dmgrstuff/rpcgecko](https://github.com/dmgrstuff/rpcgecko)
-3. ❗️ Opened issue [#2](https://github.com/jamesl1001/deviantART-API/issues/2) in [jamesl1001/deviantART-API](https://github.com/jamesl1001/deviantART-API)
-4. 🗣 Commented on [#17](https://github.com/KhushrajRathod/repl.deploy/issues/17) in [KhushrajRathod/repl.deploy](https://github.com/KhushrajRathod/repl.deploy)
-5. ❗️ Closed issue [#17](https://github.com/KhushrajRathod/repl.deploy/issues/17) in [KhushrajRathod/repl.deploy](https://github.com/KhushrajRathod/repl.deploy)
-<!--END_SECTION:activity-->
 </details>
 
 <p align="center">

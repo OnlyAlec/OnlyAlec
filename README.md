@@ -81,7 +81,9 @@
 
 <details>
     <summary>💎 Actividad Reciente en GitHub</summary>
-	<!--START_SECTION:activity-->
+	<!--RECENT_ACTIVITY:start-->
+
+	<!--RECENT_ACTIVITY:last_update-->
 </details>
 
 <p align="center">

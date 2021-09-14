@@ -37,8 +37,6 @@
 		</a>
 </p>
 
----
-
 <h3 align="center"> ⚙ | Lenguajes y herramientas: </h3>
 <p align="center">
 	<a href=https://www.w3.org/html/>

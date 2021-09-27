@@ -10,7 +10,7 @@
     </a>
 	<br/>
 	<a href= https://open.spotify.com/user/12133135781>
-		<img alt="ØnlyAlec | Spotify" src="https://spreadme-qglxp9i7j-onlyalec.vercel.app/api/spotify">
+		<img alt="ØnlyAlec | Spotify" src="https://readme-spotify-hg24563xw-onlyalec.vercel.app/api/spotify">
 	</a>
 </p>
 		
@@ -79,11 +79,7 @@
 
 ## 💎 Actividad Reciente en GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [OnlyAlec/activity-template](https://github.com/OnlyAlec/activity-template) from [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
-2. 🔱 Forked [OnlyAlec/jamesgeorge007](https://github.com/OnlyAlec/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-3. ⭐ Starred [OnlyAlec/novatorem](https://github.com/OnlyAlec/novatorem)
-4. 🔱 Forked [OnlyAlec/novatorem](https://github.com/OnlyAlec/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
-5. 🔱 Forked [OnlyAlec/jamesgeorge007](https://github.com/OnlyAlec/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Monday, September 27th, 2021, 1:13:44 PM

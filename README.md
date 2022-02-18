@@ -6,7 +6,7 @@
         <img alt="ØnlyAlec | Discord" src="https://img.shields.io/discord/821845551921233920?color=blueviolet&label=Server&logo=Discord&style=for-the-badge">
     </a>
     <a href= #>
-       <img alt="ØnlyAlec | Badge" src="https://img.shields.io/tokei/lines/github/OnlyAlec/Discord-BcK-Server?color=orange&label=⚡%20Total%20Lines&style=for-the-badge">
+       <img alt="ØnlyAlec | Badge" src="https://img.shields.io/tokei/lines/github/OnlyAlec/Discord-BcK-Server?color=orange&label=%E2%9A%A1%20Total%20Lines&style=for-the-badge">
     </a>
 	<br/>
 	<a href= https://open.spotify.com/user/12133135781>

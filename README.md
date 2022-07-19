@@ -2,7 +2,7 @@
     <a href= https://github.com/OnlyAlec>
         <img alt="" src="https://readme-typing-svg.herokuapp.com?font=Monoton&color=1DF7DB&size=70&center=true&vCenter=true&width=500&height=100&lines=%5BOnlyAlec%5D">
     </a> <br/>
-    <a href= https://discord.com/invite/uWzpuaEnvb>
+    <a href= https://discord.com/invite/fTV2wpbTQY>
         <img alt="ØnlyAlec | Discord" src="https://img.shields.io/discord/821845551921233920?color=blueviolet&label=Server&logo=Discord&style=for-the-badge">
     </a>
     <a href= #>
@@ -16,20 +16,20 @@
 		
 ---
 
-## Soy un programador amateur, estudiante y jugador de Valorant! <img width="200px" height="200px" src="https://images-ext-2.discordapp.net/external/xLqU959dX7Vj4R5J336CV1JLgbJ5_49329SnvgqFHGY/%3Fv%3D1/https/cdn.discordapp.com/emojis/852989677376503868.gif" align=right>
+## Programador amateur, fotógrafo y estudiante!! <img width="200px" height="200px" src="https://images-ext-2.discordapp.net/external/xLqU959dX7Vj4R5J336CV1JLgbJ5_49329SnvgqFHGY/%3Fv%3D1/https/cdn.discordapp.com/emojis/852989677376503868.gif" align=right>
 - 💬 Actualmente estoy trabajando en mi [Servidor de Discord][Bot]! 
-- 🎈 Me gustaria aprender muchas cosas o tener un conocimiento basico
-- 💠 Lo que estoy buscando es poder aprender de otros y colaborar en proyectos interesantes
-- 💖 Mi meta de este año es aprender python y terminar de dominar JS
+- 🎈 Me quiero especificar en Ciber-Seguridad y tener un conocimiento basico en otras areas.
+- 💠 Estoy buscando impulsar mis propios proyectos o poder colaborar con otra gente.
+- 💖 Mi meta de este año es aprender python y terminar de dominar Node JS.
 
 ---
 	
 <h3 align="center">👥 | Conoceme en redes: </h3>
 <p align="center">
-		<a href=https://thealexsview.pixieset.com>
+		<a href=https://thealecview.mypixieset.com>
 			<img alt="ØnlyAlec | Web" width="60px" src="https://img.icons8.com/fluency/48/000000/web-design.png"/>
 		</a>
-		<a href=https://twitter.com/DerkerBec>
+		<a href=https://twitter.com/DerkerBeck>
 			<img alt="ØnlyAlec | Twitter" width="60px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png"/>
 		</a>
 		<a href=https://www.instagram.com/alexis.chacs>

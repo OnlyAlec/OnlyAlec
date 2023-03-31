@@ -39,21 +39,17 @@
 
 <h3 align="center"> ⚙ | Lenguajes y herramientas: </h3>
 <p align="center">
-	<a href=https://www.w3.org/html/>
-		<img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-	<a>
-	<a href=https://www.w3schools.com/css>
-		<img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-	<a>
-	<a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript>
-		<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+	<a href=https://dev.java>
+		<img alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 	<a>
 	<a href=https://nodejs.org>
 		<img alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg"/>
 	<a>
-	<a href=https://visualstudio.microsoft.com/es/vs/features/cplusplus/>
+	<a href=https://www.python.org/psf-landing>
+		<img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+	<a>
+	<a href=https://visualstudio.microsoft.com/es/vs/features/cplusplus>
 		<img alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-		<img alt="c++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 	<a>	<br> <br>
 	<a href=https://www.photoshop.com>
 		<img alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />

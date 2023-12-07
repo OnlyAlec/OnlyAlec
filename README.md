@@ -75,15 +75,15 @@
 
 ## 💎 Actividad Reciente en GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/OnlyAlec/ProyectoHome/pull/1) in [OnlyAlec/ProyectoHome](https://github.com/OnlyAlec/ProyectoHome)
-2. 💪 Opened PR [#1](https://github.com/OnlyAlec/ProyectoHome/pull/1) in [OnlyAlec/ProyectoHome](https://github.com/OnlyAlec/ProyectoHome)
-3. ⭐ Starred [OnlyAlec/ProyectoHome](https://github.com/OnlyAlec/ProyectoHome)
-4. 📔 Created new repository [OnlyAlec/ProyectoHome](https://github.com/OnlyAlec/ProyectoHome)
-5. 📔 Created new repository [OnlyAlec/ONUMON---Juego](https://github.com/OnlyAlec/ONUMON---Juego)
+1. 🎉 Merged PR [#8](https://github.com/OnlyAlec/Discord-BcK-Server/pull/8) in [OnlyAlec/Discord-BcK-Server](https://github.com/OnlyAlec/Discord-BcK-Server)
+2. 👍 Approved [#8](https://github.com/OnlyAlec/Discord-BcK-Server/pull/8#pullrequestreview-1768556374) in [OnlyAlec/Discord-BcK-Server](https://github.com/OnlyAlec/Discord-BcK-Server)
+3. 🎉 Merged PR [#7](https://github.com/OnlyAlec/Discord-BcK-Server/pull/7) in [OnlyAlec/Discord-BcK-Server](https://github.com/OnlyAlec/Discord-BcK-Server)
+4. 👍 Approved [#7](https://github.com/OnlyAlec/Discord-BcK-Server/pull/7#pullrequestreview-1768555878) in [OnlyAlec/Discord-BcK-Server](https://github.com/OnlyAlec/Discord-BcK-Server)
+5. 🎉 Merged PR [#6](https://github.com/OnlyAlec/Discord-BcK-Server/pull/6) in [OnlyAlec/Discord-BcK-Server](https://github.com/OnlyAlec/Discord-BcK-Server)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Ultima Actualizacion: Wednesday, December 6th, 2023, 7:11 AM
+Ultima Actualizacion: Wednesday, December 6th, 2023, 7:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br/>

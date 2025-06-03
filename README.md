@@ -73,15 +73,15 @@ Por el momento tengo algunas metas cercanas que me gustaria cumplir:
 		
 ## 💎 Actividad Reciente 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [OnlyAlec/binit_ai](https://github.com/OnlyAlec/binit_ai)
-2. 🎉 Merged PR [#101](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado/pull/101) in [OnlyAlec/ULSA_ProcesosPosgrado](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado)
-3. 💪 Opened PR [#101](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado/pull/101) in [OnlyAlec/ULSA_ProcesosPosgrado](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado)
-4. 🤝 Became collaborator on [OnlyAlec/ULSA_RoboBeach](https://github.com/OnlyAlec/ULSA_RoboBeach)
+1. 🔴 Requested changes in [#103](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado/pull/103#pullrequestreview-2890332783) in [OnlyAlec/ULSA_ProcesosPosgrado](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado)
+2. 📔 Created new repository [OnlyAlec/binit_ai](https://github.com/OnlyAlec/binit_ai)
+3. 🎉 Merged PR [#101](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado/pull/101) in [OnlyAlec/ULSA_ProcesosPosgrado](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado)
+4. 💪 Opened PR [#101](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado/pull/101) in [OnlyAlec/ULSA_ProcesosPosgrado](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado)
 5. 🤝 Became collaborator on [OnlyAlec/ULSA_RoboBeach](https://github.com/OnlyAlec/ULSA_RoboBeach)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Ultima Actualizacion: Monday, June 2nd, 2025, 7:51 PM
+Ultima Actualizacion: Tuesday, June 3rd, 2025, 7:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <p align="center">

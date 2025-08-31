@@ -9,18 +9,15 @@
 </p>
 
 ---
-
-## Howzit!
 <img width="200px" height="200px" src="https://images-ext-2.discordapp.net/external/xLqU959dX7Vj4R5J336CV1JLgbJ5_49329SnvgqFHGY/%3Fv%3D1/https/cdn.discordapp.com/emojis/852989677376503868.gif" align=right>
 
-Soy **Alexis Chacon** actualemente soy *Ingeniero en Cibernetica y Sistemas Computacionales*, soy un jóven apasionado por la tecnología, curioso por encontrar nuevos retos en el mundo y me encantan los gatos!
+Soy **Alexis Chacon** actualmente soy *Ingeniero en Cibernetica y Sistemas Computacionales*, soy un jóven apasionado por la tecnología, curioso por encontrar nuevos retos en el mundo y me encantan los gatos!
 
 En cuestión de experiencia, a lo largo del mi carrera y experiencia profesional he trabajado en proyectos que implican varias **áreas de la cibernetica**, tomando en cuenta una **casa inteligente** <a href="https://github.com/OnlyAlec/IoT-Home">IoT-Home</a>, entrenamiento de **modelos de IA** (principalmente imagenes) como el proyecto de <a href="https://github.com/OnlyAlec/BinIt-AI">BinIt-AI</a> o <a href="https://github.com/OnlyAlec/Beach-Sweep">Beach-Sweep</a>, **desarrollos de API's o infraestructura con microservicios**
-<a href="https://github.com/OnlyAlec/EGELPlus_Backend">EGELPlus_Backend</a>. Aún tengo más proyectos variados, te invito a que le des un vistazo!
+<a href="https://github.com/OnlyAlec/EGELPlus_Backend">EGELPlus_Backend</a>. **Aún tengo más proyectos variados, te invito a que le des un vistazo!**
 
 Una de mis metas es poder aprender más del área de **ciberseguridad** y **redes**, de igual forma, tener más practica en proyectos propios y tecnologias recientes. _**Saber medianamente de todo seria lo ideal!**_
 
-## Tech
 ### Lenguajes 
 <p align="center">
 	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
@@ -75,7 +72,7 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma" style="vertical-align:top; margin:6px 4px">
 </p>
 
-## Estadisticas
+---
 <!--START_SECTION:waka-->
 
 ```rust
@@ -91,7 +88,7 @@ Git Config   3 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <p>
-	<img align="left" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlyalec&theme=apprentice" alt="figma">
-	<img align="right" width="300px" src="https://lanyard.cnrad.dev/api/443998731310858242" alt="figma">
+	<img align="left" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlyalec&theme=apprentice" alt="figma">
+	<img align="right" width="35%" src="https://lanyard.cnrad.dev/api/443998731310858242" alt="figma">
 </p>
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74 32">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <clipPath id="clippath">
+      <rect width="74" height="32" fill="none"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1="37" y1="34" x2="37" y2="2" gradientTransform="translate(0 34) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#000" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#clippath)">
+    <g>
+      <path d="M69,0H31v32h38c2.76,0,5-2.24,5-5V5c0-2.76-2.24-5-5-5Z" fill="#0f1418"/>
+      <path d="M31,0H5C2.24,0,0,2.24,0,5v22c0,2.76,2.24,5,5,5h26V0Z" fill="#035bda"/>
+      <path d="M31,6H12v19h19V6Z" fill="#03599c"/>
+      <path d="M31,24.62L10.48,13.01H0v14.22c0,2.76,2.24,5,5,5h26v-7.61Z" fill="#012d4f"/>
+      <path d="M0,24.46L31,6.92V0H5C2.24,0,0,2.24,0,5v19.46Z" fill="#659ad3"/>
+      <path d="M6.61,15.89c-.05-8.57,11.43-12.36,16.38-4.39l-3.8,2.2c-2.29-3.79-7.99-2.44-8.19,2.19.06,4.27,5.66,6.25,8.19,2.19l3.8,2.2c-4.36,7.57-16.16,4.85-16.38-4.39Z" fill="#fff"/>
+      <path d="M51.51,21.63c-.77.37-1.77.56-3,.56-1.61,0-2.88-.47-3.8-1.42-.92-.95-1.38-2.21-1.38-3.79,0-1.68.52-3.04,1.55-4.09,1.04-1.04,2.39-1.57,4.04-1.57,1.03,0,1.89.13,2.59.39v2.28c-.7-.42-1.5-.63-2.4-.63-.99,0-1.78.31-2.39.93-.61.62-.91,1.46-.91,2.52s.29,1.83.86,2.43c.57.6,1.34.9,2.31.9s1.77-.22,2.53-.67v2.16Z" fill="#fff"/>
+      <path d="M69,0H5C2.24,0,0,2.24,0,5v22c0,2.76,2.24,5,5,5h64c2.76,0,5-2.24,5-5V5c0-2.76-2.24-5-5-5Z" fill="url(#Degradado_sin_nombre_4)"/>
+    </g>
+  </g>
+</svg>

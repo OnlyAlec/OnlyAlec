@@ -87,9 +87,8 @@ Git Config   3 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<p align="center">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlyalec&theme=apprentice" alt="figma">
+<p>
+	<img align="left" width="620px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlyalec&theme=apprentice" alt="figma">
+	<img align="right" width="340px" src="https://lanyard.cnrad.dev/api/443998731310858242" alt="figma">
 </p>
-
-
 

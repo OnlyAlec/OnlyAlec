@@ -94,3 +94,4 @@ Git Config   3 mins          ▒░░░░░░░░░░░░░░░░
 	<img align="right" width="35%" src="https://lanyard.cnrad.dev/api/443998731310858242" alt="figma">
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onlyalec&theme=discord_old_blurple)

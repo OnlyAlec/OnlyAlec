@@ -2,107 +2,85 @@
 	<a href= https://github.com/OnlyAlec>
 		<img alt="" src="https://readme-typing-svg.herokuapp.com?font=Monoton&color=1DF7DB&size=70&center=true&vCenter=true&width=500&height=100&lines=%5BOnlyAlec%5D">
 	</a>
-	<br/>
-	<a href= https://open.spotify.com/user/12133135781>
-		<img alt="ØnlyAlec | Spotify" src="https://readme-spotify-hg24563xw-onlyalec.vercel.app/api/spotify">
-	</a>
+	<br>
+	<a href="https://www.linkedin.com/in/alexis-chacon-t/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+	<a href="https://www.instagram.com/alexis.chacs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+	<a href="https://open.spotify.com/playlist/2F7MznBQoyHuxsb246Dfl3?si=80b1a932e70e4e82" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
-		
+
 ---
 
-## 🙌 | Acerca de mi...
+## Howzit!
 <img width="200px" height="200px" src="https://images-ext-2.discordapp.net/external/xLqU959dX7Vj4R5J336CV1JLgbJ5_49329SnvgqFHGY/%3Fv%3D1/https/cdn.discordapp.com/emojis/852989677376503868.gif" align=right>
 
+Soy **Alexis Chacon** actualemente soy *Ingeniero en Cibernetica y Sistemas Computacionales*, soy un jóven apasionado por la tecnología, curioso por encontrar nuevos retos en el mundo y me encantan los gatos!
 
-¿Qué tal? Mi nombre es **Alexis Chacon** futuro *Ingeniero en Cibernetica y Sistemas Computacionales*, por ende soy estudiante y un apasionado por la tecnología.
-Actualmente me considero como un programador semi senior, posiblemente te pregunta el porque en este nivel deja te cuento mi experiencia.
+En cuestión de experiencia, a lo largo del mi carrera y experiencia profesional he trabajado en proyectos que implican varias **áreas de la cibernetica**, tomando en cuenta una **casa inteligente** <a href="https://github.com/OnlyAlec/IoT-Home">IoT-Home</a>, entrenamiento de **modelos de IA** (principalmente imagenes) como el proyecto de <a href="https://github.com/OnlyAlec/BinIt-AI">BinIt-AI</a> o <a href="https://github.com/OnlyAlec/Beach-Sweep">Beach-Sweep</a>, **desarrollos de API's o infraestructura con microservicios**
+<a href="https://github.com/OnlyAlec/EGELPlus_Backend">EGELPlus_Backend</a>. Aún tengo más proyectos variados, te invito a que le des un vistazo!
 
+Una de mis metas es poder aprender más del área de **ciberseguridad** y **redes**, de igual forma, tener más practica en proyectos propios y tecnologias recientes. _**Saber medianamente de todo seria lo ideal!**_
 
-A lo largo del tiempo he trabajado en proyectos que implican programación orientada en varias áreas, tengo conocimiento de varios lenguajes de programación y por lo menos he hecho un proyecto planteado en cada lenguaje.
-Estos proyectos suelen tener un enfoque educacional ya que son para la universidad pero estos pueden ser escalables a que tengan una aplicación en la vida real como puede el proyecto de <a href="https://github.com/OnlyAlec/IoT-Home">**IoT-Home**</a>, se que los proyecto universitarios no lo son todo es por eso que tambien he trabajado con varios equipos de desarroladores para realizar servicios/programas orientados aún tema en especifico, coomo puede ser el <a href="https://github.com/OnlyAlec/Kirolu-BackEnd">**API Kirolu Auth**</a>.
-
-
-Por el momento tengo algunas metas cercanas que me gustaria cumplir:
-- 🎈 Me quiero especificar en el área de Ciber-Seguridad una vez terminada mi carrera.
-- 💠 Estoy buscando impulsar mis propios proyectos siendo que cada uno tenga relación con otro, como crear una red (Puede que suene rara la idea).
-- ⚙️ Actualmente ando incursionando en la parte de web, quiero reforzar el conocimiento que tengo y aplicarlo con uno de los proyectos que tenga realizado.
-- 📒 Me gustaria profundizar en el área de cloud como puede ser OCI (Oracle Cloud Infraestructure), Google Cloud o Azure.
-
-	
-## ⚙ | Tecnologías ocupadas...
+## Tech
+### Lenguajes 
 <p align="center">
-	<a href=https://visualstudio.microsoft.com/es/vs/features/cplusplus>
-		<img alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-	<a>
-	<a href=https://visualstudio.microsoft.com/es/vs/features/cplusplus>
-		<img alt="C Sharp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-	<a>
-	<a href=https://dev.java>
-		<img alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-	<a>
-	<a href=https://www.python.org/psf-landing>
-		<img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-	<a>
-	<br>
-	<a href=https://html.spec.whatwg.org/>
-		<img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-	<a>
-	<a href=https://developer.mozilla.org/es/docs/Web/CSS>
-		<img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-	<a>
-	<a href=https://developer.mozilla.org/es/docs/Web/JavaScript>
-		<img alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-	<a>
-	<a href=https://www.oracle.com/database/technologies/appdev/sql.html>
-		<img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
-	<a>
-	<br>
-	<a href=https://git-scm.com/>
-		<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-	<a>
-	<a href=https://www.oracle.com/mx/cloud/>
-		<img alt="OCI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
-	<a>
-	<a href=#>
-		<img alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-	<a>
-	<a href=https://www.postman.com>
-		<img alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-	<a>
-</p>
-		
-## 💎 Actividad Reciente 
-<!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#103](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado/pull/103) in [OnlyAlec/ULSA_ProcesosPosgrado](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado)
-2. 👍 Approved [#103](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado/pull/103#pullrequestreview-2984938908) in [OnlyAlec/ULSA_ProcesosPosgrado](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado)
-3. 🎉 Merged PR [#101](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado/pull/101) in [OnlyAlec/ULSA_ProcesosPosgrado](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado)
-4. 💪 Opened PR [#101](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado/pull/101) in [OnlyAlec/ULSA_ProcesosPosgrado](https://github.com/OnlyAlec/ULSA_ProcesosPosgrado)
-5. 🤝 Became collaborator on [OnlyAlec/ULSA_RoboBeach](https://github.com/OnlyAlec/ULSA_RoboBeach)
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Ultima Actualizacion: Saturday, August 30th, 2025, 7:51 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<p align="center">
-	<a href=https://github.com/OnlyAlec>
-		<img alt="Discord Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyAlec&theme=tokyonight">
-	</a>
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="c" style="vertical-align:top; margin:6px 4px;">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 </p>
 
-## 👥 | Redes sociales...
+### Frameworks
 <p align="center">
-	<a href=https://thealecview.mypixieset.com>
-		<img alt="ØnlyAlec | Web" width="60px" src="https://img.icons8.com/fluency/48/000000/web-design.png"/>
-	</a>
-	<a href=https://twitter.com/DerkerBeck>
-		<img alt="ØnlyAlec | Twitter" width="60px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png"/>
-	</a>
-	<a href=https://www.instagram.com/alexis.chacs>
-		<img alt="ØnlyAlec | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-	</a>
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="express" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" alt="tensorflow" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="flask" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery2.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+	<img src="badges/frameworks/spring.svg" alt="spring" style="vertical-align:top; margin:6px 4px">
 </p>
 
+### Cloud & Servidores
+<p align="center">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx2.svg" alt="nginx" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg" alt="cloudflare" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+	<img src="badges/cloud/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
+	<img src="badges/cloud/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
+</p>
+
+### Bases de datos
+<p align="center">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg" alt="oracledb" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="postgresql" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb2.svg" alt="mariadb" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="mongodb" style="vertical-align:top; margin:6px 4px">
+</p>
+
+
+### Herramientas
+<p align="center">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg" alt="shell" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg" alt="notion" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="git" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="postman" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma" style="vertical-align:top; margin:6px 4px">
+</p>
+
+## Estadisticas
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlyalec&theme=apprentice" alt="figma">
+</p>
 
 
 

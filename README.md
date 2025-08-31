@@ -77,6 +77,15 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 
 ## Estadisticas
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   4 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.52 %
+Python       3 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.42 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+```
+
 <!--END_SECTION:waka-->
 <p align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlyalec&theme=apprentice" alt="figma">

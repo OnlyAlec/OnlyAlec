@@ -73,6 +73,7 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 </p>
 
 ---
+> Ultimos 7 días codificando en...
 <!--START_SECTION:waka-->
 
 ```rust
@@ -87,6 +88,7 @@ Git Config   3 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+> Estadisticas
 <p>
 	<img align="left" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlyalec&theme=apprentice" alt="figma">
 	<img align="right" width="35%" src="https://lanyard.cnrad.dev/api/443998731310858242" alt="figma">

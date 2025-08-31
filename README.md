@@ -78,11 +78,14 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 ## Estadisticas
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 24 August 2025 - To: 31 August 2025
+
+Total Time: 8 hrs 35 mins
+
 JavaScript   4 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.52 %
 Python       3 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.42 %
 Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 

@@ -77,15 +77,15 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 4 hrs 37 mins
+Total Time: 1 hr 15 mins
 
-Python       3 hrs 27 mins   ██████████████████▓░░░░░░   74.93 %
-XML          54 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 %
-JavaScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Kotlin       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+XML          52 mins         █████████████████▒░░░░░░░   69.78 %
+JavaScript   9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Python       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Kotlin       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->

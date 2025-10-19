@@ -77,15 +77,15 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
 Total Time: 5 hrs 17 mins
 
-XML                 1 hr 35 mins    ███████▒░░░░░░░░░░░░░░░░░   29.08 %
-C                   1 hr 35 mins    ███████▒░░░░░░░░░░░░░░░░░   29.02 %
-Kotlin              47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-Gettext Catalog     34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Other               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+XML                 1 hr 35 mins    ███████▒░░░░░░░░░░░░░░░░░   29.64 %
+C                   1 hr 35 mins    ███████▒░░░░░░░░░░░░░░░░░   29.57 %
+Kotlin              47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Gettext Catalog     34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+Markdown            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->

@@ -77,12 +77,13 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-Total Time: 2 hrs 3 mins
+Total Time: 2 hrs 33 mins
 
-Python   1 hr 51 mins    █████████████████████░░░░   83.84 %
-Other    9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Python   2 hrs 21 mins   ██████████████████▒░░░░░░   73.08 %
+Other    40 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->

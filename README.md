@@ -79,12 +79,12 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 ```rust
 From: 10 May 2026 - To: 17 May 2026
 
-Total Time: 8 hrs 34 mins
+Total Time: 8 hrs 41 mins
 
-Python       4 hrs 43 mins         ████████████░░░░░░░░░░░░░   47.93 %
-JavaScript   1 hr 23 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Other        1 hr 17 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-XML          46 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Python       4 hrs 47 mins         ████████████░░░░░░░░░░░░░   48.56 %
+JavaScript   1 hr 21 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+Other        1 hr 10 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+XML          52 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
 TSConfig     20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 

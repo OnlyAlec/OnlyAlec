@@ -77,13 +77,11 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 May 2026 - To: 22 May 2026
+From: 16 May 2026 - To: 23 May 2026
 
-Total Time: 32 mins
+Total Time: 0 secs
 
-Python      21 mins               ████████████████▓░░░░░░░░   66.44 %
-Batchfile   10 mins               ████████▒░░░░░░░░░░░░░░░░   33.52 %
-Other       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -77,7 +77,7 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 September 2026 - To: 13 September 2026
+From: 07 September 2026 - To: 14 September 2026
 
 Total Time: 58 mins
 

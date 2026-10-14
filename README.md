@@ -77,15 +77,14 @@ Una de mis metas es poder aprender más del área de **ciberseguridad** y **rede
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-Total Time: 1 hr 6 mins
+Total Time: 3 hrs 27 mins
 
-TOML         26 mins               ████████░░░░░░░░░░░░░░░░░   31.48 %
-Other        18 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-JavaScript   11 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-C#           9 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-XAML         8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Other         34 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+TypeScript    23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+INI           19 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Bash          15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
 ```
 
 <!--END_SECTION:waka-->
